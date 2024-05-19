@@ -3,5 +3,6 @@
   "vimMode": true,
   "attachmentFolderPath": "./assets",
   "readableLineLength": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }
