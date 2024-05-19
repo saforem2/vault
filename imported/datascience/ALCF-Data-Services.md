@@ -1,0 +1,36 @@
+
+# ALCF Data Services
+- Data (general) & Data Services
+    - General availability (timelines, 6 months)
+    - Raising awareness on best practices, how to share code / data?
+    - How to take advantage of existing tools?
+    - Policy & Service for minting DOIs
+    - Automate metadata capture
+        - Phase 1: Generic capture of all data produced within project space
+        - Phase 2: Based on data types (HDF5, netCDF, etc.) auto curate metadata
+        - Phase 3: Auto define and assign predefined ontologies
+    - Querying of metadata & datasets using APIs and UI Interface
+    - Visualization of resources (images, HDF5Viewers, plots, etc.)
+    - Reproducibility - using workflow tools and container services
+- Integrations:
+    - Integrate with Accounts / UB3 API
+    - Integration with framework / library agnostic workflow tools
+    - Integrations with Data Management / MLOps tools like experimentation dashboards
+        - WandB on prem deployment
+    - Integration with Globus (or tools which science teams would use)
+        - Parsl, funcX
+    - Integration with model registry services
+    - Integration with ALCF's JupyterHub instance for viewing / launching notebooks
+- Policies:
+    - Authentication and Authorization: 
+        - Strategies for users and general public
+        - Do users need ALCF credentials for accessing data?
+        - If open research, strategies to make data public.
+        - Policies to retain data on filesystem
+            - Indefinite?
+                - Long term storage policies?
+            - Use interaction metrics?
+                - e.g. track frequency with which user interacts with data?
+- Machine Requirements:
+    - VM's (32G node) to host data portals like ACDC / Data-verse with grand / eagle filesystem
+    - A multi-node Kubernetes cluster for scaling studies

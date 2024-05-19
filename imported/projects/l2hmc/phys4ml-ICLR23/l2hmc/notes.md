@@ -1,0 +1,8 @@
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-1.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-2.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-3.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-4.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-5.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-6.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-7.jpg)
+![|](file:///Users/saforem2/Documents/GoodNotes/Ideas/Ideas-8.jpg)
