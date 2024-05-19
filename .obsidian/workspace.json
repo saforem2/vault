@@ -11,24 +11,15 @@
             "id": "b563a1bb35bc4e76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2306d48c84c8a11d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md"
+                "file": "Home.md"
               }
             }
           }
@@ -155,23 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2306d48c84c8a11d",
+  "active": "5f37280f8d9922d4",
   "lastOpenFiles": [
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/AuroraGPT.md",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decaynull.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/ScreenShot-2024-05-19-110318.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay1500.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-1500.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/ScreenShot-2024-05-19-103321.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay-2000.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/ScreenShot-2024-05-19-103248.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay5000.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/ScreenShot-2024-05-19-104208.png",
-    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay10000.png",
-    "0001-Work/Aurora-GPT",
-    "0002-Personal",
-    "0001-Work",
-    "0000-Periodic"
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211141_942.svg",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211142_149.svg",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211143_484.svg",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211142_029.svg",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211141_213.svg",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets/Pasted Image 20230118211140_954.svg",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files/l2hmc-2dU1_36_3.png",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files/l2hmc-2dU1_36_2.png",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files/l2hmc-2dU1_36_1.png",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files/l2hmc-2dU1_36_0.png",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files/l2hmc-2dU1_34_6.png",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/plaq-1x1.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/leapfrog-layer-horizontal.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/leapfrog-layer-2023-01-16.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/assets",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets/Drawing-2023-01-17-114428.excalidraw.md",
+    "0000-Private/imported/0007-MeetingNotes/Venkat/logs/GenSLM/single-node/single-gpu.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/phys4ml_ICLR23-pdf.md",
+    "0000-Private/imported/projects/fthmc/paper-discussion/Diffusion Generative Flow Samplers -- Improving Learning Signals Through Partial Trajectory Optimization/Diffusion Generative Flow Samplers -- Improving Learning Signals Through Partial Trajectory Optimization.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/notes.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/l2hmc4qcd.md",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc/assets",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1_files",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1.md",
+    "0000-Private/imported/projects/fthmc/paper-discussion/Reduction of Autocorrelation Times in Lattice Path Integral Quantum Monte Carlo via Direct Sampling of the Truncated Exponential Distribution/notes.md",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1-clean.md",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1/l2hmc-2dU1-1.md",
+    "0000-Private/imported/projects/l2hmc/docs 1/trainer/trainer.md",
+    "0000-Private/imported/projects/l2hmc/docs 1/experiment/experiment.md",
+    "0000-Private/imported/projects/l2hmc/Lattice23/lattice23-proceedings/MLMC-Lattice23-Proceedings.md",
+    "0000-Private/imported/projects/l2hmc/ML4PS2023-NeurIPS/diffusion-model/Diffusion Models for Lattice Gauge Theory.md",
+    "0000-Private/imported/projects/l2hmc/ML4PS2023-NeurIPS/diffusion-model/Accelerating MCMC with Diffusion Models.md",
+    "0000-Private/imported/projects/l2hmc/Lattice23/debug_report/DEBUG REPORT.md",
+    "0000-Private/imported/projects/l2hmc/LQCD/networks/sampling_using_SUN_gauge_equivariant_flows.md",
+    "0000-Private/imported/projects/l2hmc/LQCD/networks/notes.md",
+    "0000-Private/imported/projects/l2hmc/LQCD/networks/gauge-equivariant-samplers.md",
+    "0000-Private/imported/projects/l2hmc/LQCD/networks/Lattice Gauge Symmetry in Neural Networks.md",
+    "0000-Private/imported/projects/l2hmc/AIP-Writeup-Draft/l2hmc-writeup/l2hmc4su3-AIP.md",
+    "0000-Private/imported/projects/fthmc/paper-discussion/Transport Map Unadjusted Langevin Algorithms/Transport Map Unadjusted Langevin Algorithms.md",
+    "0000-Private/imported/0007-MeetingNotes/Venkat/logs/GenSLM/single-node",
+    "0000-Private/imported/0007-MeetingNotes/Venkat/assets/gpt3/world-size256",
+    "0000-Private/imported/0007-MeetingNotes/Venkat/assets/gpt3/world-size128",
+    "0000-Private/imported/projects/l2hmc/phys4ml-ICLR23/l2hmc",
+    "0000-Private/imported/projects/l2hmc/notebooks/l2hmc-2dU1",
+    "0000-Private/imported/projects/l2hmc/docs 1/trainer",
+    "0000-Private/imported/projects/l2hmc/docs 1/experiment"
   ]
 }
