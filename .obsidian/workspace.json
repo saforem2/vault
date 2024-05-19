@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3fff403c88ae876d",
@@ -167,6 +166,12 @@
   },
   "active": "edf6288e97a31cdb",
   "lastOpenFiles": [
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay5000.png",
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/ScreenShot-2024-05-19-104208.png",
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn/flash-attn-disguise-decay10000.png",
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash-attn-disguise-decay10000.png",
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/flash--decay10000.png",
+    "0001-Work/Aurora-GPT/0001-AuroraGPT/assets/ScreenShot-2024-05-19-103120.png",
     "0001-Work/Aurora-GPT/0001-AuroraGPT/AuroraGPT.md",
     "0001-Work/Aurora-GPT/0001-AuroraGPT/flash-attn-sunspot.md",
     "0001-Work/Aurora-GPT",

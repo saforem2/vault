@@ -111,6 +111,9 @@ LR_WARMUP_FRAC, LR_DECAY_ITERS}`:
 - [ ] Repeat the experiments below using the `2024.0` frameworks to make sure they _all_ agree
 - [ ] 
 
+![[flash-attn-disguise-decay10000.png]]
+
+
 ![[disguised-fix-1.png]] ![[disguised-fix-2.png]]
 
 ### `2024.0` Fix
